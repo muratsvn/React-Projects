@@ -1,0 +1,22 @@
+.col{
+    position: relative;
+    text-align: center;
+    display: flex;
+    justify-content: center;
+   
+
+    .discount{
+        position: absolute;
+        background-color: green;
+        top: 10px;
+        left: 10px;
+        color: white;
+        border-radius: 5px;
+        -webkit-border-radius: 5px;
+        -moz-border-radius: 5px;
+        -ms-border-radius: 5px;
+        -o-border-radius: 5px;
+        padding: 5px;
+        
+    }
+}

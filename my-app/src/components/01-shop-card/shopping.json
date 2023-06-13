@@ -1,0 +1,51 @@
+[
+    {
+      "id": 1,
+      "title": "Sony 1",
+      "price": 29.99,
+      "image": "shopping (1).jpg",
+      "discount": 10,
+      "rate": 5
+    },
+    {
+      "id": 2,
+      "title": "Sony 2",
+      "price": 49.99,
+      "image": "shopping (2).jpg",
+      "rate": 1
+    },
+    {
+      "id": 3,
+      "title": "Sony 3",
+      "price": 19.99,
+      "image": "shopping (3).jpg",
+      "rate": 0
+    },
+    {
+      "id": 4,
+      "title": "Sony 4",
+      "price": 99.99,
+      "image": "shopping (4).jpg",
+      "discount": 25,
+      "rate": 4
+    },
+    {
+      "id": 5,
+      "title": "Sony 5",
+      "price": 39.99,
+      "image": "shopping (5).jpg",
+      "discount": 20,
+      "rate": 1
+    },
+    {
+      "id": 6,
+      "title": "Sony 6",
+      "price": 79.99,
+      "image": "shopping.jpg",
+      "discount": 10,
+      "rate": 2
+    }
+    
+   
+    
+  ]
