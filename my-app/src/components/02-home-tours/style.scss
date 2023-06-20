@@ -1,8 +1,29 @@
 img{
-    width: 100%;
-    height: auto;
+    width: 600px;
+    height: 400px;
+    object-fit:cover;
 }
-
 .single-tour{
-    
+    margin-bottom: 50px;
+    width: 600px;
+}
+.tour-card{
+    display: flex;
+    gap:10px;
+    justify-content: space-between;
+   
+}
+.card-dede{
+    position: relative;
+    .card-btn{
+        position: absolute;
+        bottom:0 ;
+    }
+    h5{
+        position: absolute;
+        top:0;
+        right: 0;
+        background-color: greenyellow;
+        color:white
+    }
 }
